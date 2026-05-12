@@ -5,6 +5,8 @@ Employees submit requests, managers approve or reject them — all in one clean 
 
 **Built with:** Vue 3 · Node.js · Express · TypeORM · PostgreSQL (Neon)
 
+**Live demo:** https://vacation-management-front.onrender.com
+
 ---
 
 ## What it does
